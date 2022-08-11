@@ -12,6 +12,6 @@
   - :pencil2: [Twitter](https://twitter.com/abhinandan1311)
   - :office: [LinkedIn](https://www.linkedin.com/in/abhinandan-w-a30552137/)
 
-[![Abhinandan's github stats](https://github-readme-stats.vercel.app/api?username=abhinandanwadwa&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Abhinandan's github stats](https://github-readme-stats.vercel.app/api?username=abhinandanwadwa&custom_title=Abhinandan's%20Github%20Stats&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhinandanwadwa&theme=radical)](https://git.io/streak-stats)
