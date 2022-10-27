@@ -15,3 +15,5 @@
 [![Abhinandan's github stats](https://github-readme-stats.vercel.app/api?username=abhinandanwadwa&custom_title=Abhinandan's%20Github%20Stats&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhinandanwadwa&theme=radical)](https://git.io/streak-stats)
+
+[![Abhinandan's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhinandanwadwa&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
