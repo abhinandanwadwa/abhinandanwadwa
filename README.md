@@ -16,4 +16,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhinandanwadwa&theme=radical)](https://git.io/streak-stats)
 
-[![Abhinandan's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhinandanwadwa&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abhinandan's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhinandanwadwa&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
