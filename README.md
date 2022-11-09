@@ -16,4 +16,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhinandanwadwa&theme=radical)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhinandanwadwa&theme=onedark&no-frame=true&column=4&margin-w=5&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Abhinandan's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhinandanwadwa&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
