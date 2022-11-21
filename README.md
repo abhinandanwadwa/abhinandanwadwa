@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=+Full+Stack+Web+Developer;Open+Source+Enthusiast;Discord+Bot+Developer;and+much+more...)](https://git.io/typing-svg)
 
 
-- :zap: I love math, programming and rubiks cube.
+- :zap: I love math, programming and speed cubing.
 - 🌱 I’m addicted to learning and growing every day
 - 📫 How to find me: 
   - :movie_camera: [Instagram](https://www.instagram.com/abhinandan__wadhwa)
