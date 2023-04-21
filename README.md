@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinandan Wadhwa</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinandanwadwa&label=Profile%20views&color=0e75b6&style=flat" alt="abhinandanwadwa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinandanwadwa&label=Profile%20views&color=0e75b6&style=flat" alt="abhinandanwadwa"/> </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=+Full+Stack+Web+Developer;Open+Source+Enthusiast;Discord+Bot+Developer;and+much+more...)](https://git.io/typing-svg)
 
