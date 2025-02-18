@@ -6,7 +6,7 @@
 
 
 - :zap: I love math, programming and speed cubing.
-- 🌱 I’m adicted to learning and growing every day
+- 🌱 I’m addicted to learning and growing every day
 - 📫 How to find me: 
   - :movie_camera: [Instagram](https://www.instagram.com/abhinandan__wadhwa)
   - :pencil2: [Twitter](https://twitter.com/abhinandan1311)
